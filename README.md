@@ -35,4 +35,7 @@ O software utilizado neste projeto foi:
 
 <img src="https://user-images.githubusercontent.com/119675645/221202169-f747ea84-1f7b-4de4-b7b3-d7f696c4afa9.jpg" >
 
+### 2 - Plot gráfico mostrando o crescimento dos ataque por ano (1970-2015) 
+<img src="https://user-images.githubusercontent.com/119675645/221205118-d7c5a7c2-c71e-45a4-b26a-b7e96b2b7b39.png" >
+
 
