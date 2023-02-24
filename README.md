@@ -33,7 +33,6 @@ O software utilizado neste projeto foi:
 
 ### 1 - Tabela das 10 primeiras linhas e colunas do DataSet estudado
 
-
-
+<img src="https://user-images.githubusercontent.com/119675645/221202169-f747ea84-1f7b-4de4-b7b3-d7f696c4afa9.jpg" >
 
 
