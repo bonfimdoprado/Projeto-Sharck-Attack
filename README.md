@@ -29,5 +29,11 @@ O software utilizado neste projeto foi:
 * Matplotlib
 * Seaborn
 
+## Informações do projeto
+
+### 1 - Tabela das 10 primeiras linhas e colunas do DataSet estudado
+
+
+
 
 
