@@ -51,4 +51,24 @@ O software utilizado neste projeto foi:
 <img src="https://user-images.githubusercontent.com/119675645/221356399-b77f8fe2-a9f4-4c29-ae91-83a48c9be138.png" >
 
 
+## Features
+
+ - Import from dataset
+ - Data cleaning
+ - Data manipulation
+ - Data analysis
+ - Analysis of the result
+ 
+ 
+## Links
+
+  - Repository: https://github.com/bonfimdoprado/Projeto-Sharck-Attack
+  
+  
+## Authors
+
+* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
+ 
+
+
 
