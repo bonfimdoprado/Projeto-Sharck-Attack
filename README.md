@@ -33,9 +33,11 @@ O software utilizado neste projeto foi:
 
 ### 1 - Tabela das 10 primeiras linhas e colunas do DataSet estudado
 
-<img src="https://user-images.githubusercontent.com/119675645/221202169-f747ea84-1f7b-4de4-b7b3-d7f696c4afa9.jpg" >
+<img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-### 2 - Plot gráfico mostrando o crescimento dos ataque por ano (1970-2015) 
+### 2 - Gráfico representa o crescimento dos números de ataques de tubarões por ano (1970-2015) 
 <img src="https://user-images.githubusercontent.com/119675645/221205118-d7c5a7c2-c71e-45a4-b26a-b7e96b2b7b39.png" >
+
+### 3 - 
 
 
