@@ -36,7 +36,7 @@ The software  used in this project was:
 
 <img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-### 2 - These charts show what data was analyzed in the study.
+### 2 - These charts what which data was analyzed in the study
 * 1. Number of attacks by age (1 year to 70 years).
 * 2. Number of attacks by year (1970 to 2015).
 * 3. Number of attacks by activity (filtered from 50 attacks per activity).
