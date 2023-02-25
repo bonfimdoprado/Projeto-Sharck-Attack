@@ -35,10 +35,14 @@ O software utilizado neste projeto foi:
 
 <img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-
+### 2 - Estes quatro gráficos mostram quais dados eu utilizei no estudo.
+* 1. Número de ataques por idade (1 ano até 70 anos).
+* 2. Número de ataques pro ano (1970 até 2015).
+* 3. Número de ataques por atividade (filtrado a partir de 50 ataques por atividade).
+* 4. Número de ataques pro país (filtado a paritr de 50 ataques por país).
+<img src="https://user-images.githubusercontent.com/119675645/221325618-3fb0d7ad-3e56-43cf-b4b3-ee5053b2069d.jpg" >
 
 ### 3 - 
-<img src="" >
 
 
 
