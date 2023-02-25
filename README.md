@@ -41,7 +41,7 @@ The software  used in this project was:
 * 2. Number of attacks by year (1970 to 2015).
 * 3. Number of attacks by activity (filtered from 50 attacks per activity).
 * 4. Number of attacks by country (filtered from 50 attacks by country).
-<img src="https://user-images.githubusercontent.com/119675645/221358470-98d814c1-47a8-4499-81b1-97924496237d.jpg" >
+<img src="https://user-images.githubusercontent.com/119675645/221359699-0d04da42-7b4b-4248-a9d1-6dabfa9f69e7.jpg" >
 
 ### 3 - Number of attacks/year by activity.
 
