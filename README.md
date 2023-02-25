@@ -6,7 +6,7 @@
 
 ## <h1 align="center"> Project description </h1>
 
-This project aimed to analyze the increase in shark attacks on surfers, based on data collected from the *Global Shark Attacks* table. The attacks that occurred between 1970 and 2015 were analyzed.
+This project aimed to analyze the increase in shark attacks on surfers, based on data collected from the *Global Shark Attacks* table. 
 
 
 ## Technology
