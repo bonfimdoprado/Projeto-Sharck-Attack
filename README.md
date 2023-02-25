@@ -35,9 +35,10 @@ O software utilizado neste projeto foi:
 
 <img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-### 2 - Gráfico representa o crescimento dos números de ataques de tubarões por ano (1970-2015) 
-<img src="https://user-images.githubusercontent.com/119675645/221205118-d7c5a7c2-c71e-45a4-b26a-b7e96b2b7b39.png" >
+
 
 ### 3 - 
+<img src="" >
+
 
 
