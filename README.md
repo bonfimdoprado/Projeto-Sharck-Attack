@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/119675645/221066262-4c4ad41c-7c6b-4f05-a116-c906ae504042.jpg" >
 
 
-## <h1 align="center"> Descrição do projeto </h1>
+## <h1 align="center"> Project description </h1>
 
 This project aimed to analyze the increase in shark attacks on surfers, based on data collected from the *Global Shark Attacks* table. The attacks that occurred between 1970 and 2015 were analyzed.
 
