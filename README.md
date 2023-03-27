@@ -31,11 +31,11 @@ O software utilizado neste projeto foi:
 
 ## Informações do Projeto:
 
-### 1 - Tabela das 10 primeiras linhas e colunas do DataSet estudado
+### 1 - Tabela das 10 primeiras linhas do DataSet estudado
 
 <img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-### 2 - Esses gráficos quais dados foram analisados no estudo
+### 2 - Os gráficos a baixo mostram quais dados foram utilizados no estudo
 * 1. Número de ataques por idade (1 ano a 70 anos).
 * 2. Número de ataques por ano (1970 a 2015).
 * 3. Número de ataques por atividade (filtrado de 50 ataques por atividade).
