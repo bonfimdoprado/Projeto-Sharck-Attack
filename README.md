@@ -47,26 +47,27 @@ O software utilizado neste projeto foi:
 
 <img src="https://user-images.githubusercontent.com/119675645/228008701-978d79d3-013f-466f-be1f-4779ec027c5c.jpg" >
 
-### 4  - Percentage of attacks by activity.
+### 4  - Porcentagem de ataques por atividade.
+ Por este gráfico é possível analisar em porcentagem que os surfistas são os que tem mais chances de serem ataques por tubarões.
 
 <img src="https://user-images.githubusercontent.com/119675645/221356399-b77f8fe2-a9f4-4c29-ae91-83a48c9be138.png" >
 
 
-## Features
+## Características
 
- - Import from dataset
- - Data cleaning
- - Data manipulation
- - Data analysis
- - Analysis of the result
+ - Importar do conjunto de dados
+ - Limpeza de dados
+ - Manipulação de dados
+ - Análise de dados
+ - Análise do resultado
  
  
 ## Links
 
-  - Repository: https://github.com/bonfimdoprado/Projeto-Sharck-Attack
+  - Repositório: https://github.com/bonfimdoprado/Projeto-Sharck-Attack
   
   
-## Authors
+## Autores
 
 * **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
  
