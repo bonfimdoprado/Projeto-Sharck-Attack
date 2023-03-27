@@ -1,27 +1,27 @@
-# <h1 align="center"> Shark attacks on surfers </h1>
+# <h1 align="center"> Ataques de tubarão em surfistas </h1>
 
 # <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/221066262-4c4ad41c-7c6b-4f05-a116-c906ae504042.jpg" > </h1>
 
 
-## <h1 align="center"> Project description </h1>
+## <h1 align="center"> Descrição do Projeto </h1>
 
-This project aimed to analyze the increase in shark attacks on surfers, based on data collected from the *Global Shark Attacks* table. 
+Este projeto teve como objetivo analisar o aumento de ataques de tubarão em surfistas, com base nos dados coletados da tabela Global Shark Attacks.
 
 
-## Technology
+## Tecnologia
 
-The software  used in this project was:
+O software utilizado neste projeto foi:
 
 * Jupyter Anaconda
 * Python version  3.9.13
 
 
-## Services Used
+## Serviços usados
 
 * Github
 
 
-## Python Libraries
+## Bibliotecas Python
 
 * Pandas
 * Numpy
@@ -29,20 +29,21 @@ The software  used in this project was:
 * Matplotlib
 * Seaborn
 
-## Project information
+## Informações do Projeto:
 
-### 1 - Table of the first 10 rows and columns of the studied DataSet
+### 1 - Tabela das 10 primeiras linhas e colunas do DataSet estudado
 
 <img src="https://user-images.githubusercontent.com/119675645/221323724-4b9c9154-a3ec-4863-b46c-67e8fc9eb72b.jpg" >
 
-### 2 - These charts what which data was analyzed in the study
-* 1. Number of attacks by age (1 year to 70 years).
-* 2. Number of attacks by year (1970 to 2015).
-* 3. Number of attacks by activity (filtered from 50 attacks per activity).
-* 4. Number of attacks by country (filtered from 50 attacks by country).
+### 2 - Esses gráficos quais dados foram analisados no estudo
+* 1. Número de ataques por idade (1 ano a 70 anos).
+* 2. Número de ataques por ano (1970 a 2015).
+* 3. Número de ataques por atividade (filtrado de 50 ataques por atividade).
+* 4. Número de ataques por país (filtrado de 50 ataques por país).
 <img src="https://user-images.githubusercontent.com/119675645/221359756-e9eb685b-f595-4db3-afad-df371370559b.jpg" >
 
-### 3 - Number of attacks/year by activity.
+### 3 - Número de ataques/ano por atividade.
+ O gráfico da esquerda refere-se ao número de ataques de tubarões por ano em surfistas. Já o gráfico da direita representa o número de ataques em pessoas em geral (qualquer atividade). Por estes dois gráficos é possível analisar que o aumento de ataques de 1970 até 2015 foi em surfistas. O motivo desse grande aumento de ataques é por causa do crescimento da prática deste esporte, a partir de 1970 o Surf começou a se tornar mais popular
 
 <img src="https://user-images.githubusercontent.com/119675645/228008701-978d79d3-013f-466f-be1f-4779ec027c5c.jpg" >
 
