@@ -44,7 +44,7 @@ The software  used in this project was:
 
 ### 3 - Number of attacks/year by activity.
 
-<img src="https://user-images.githubusercontent.com/119675645/221326765-01a9ef4e-cbdc-42ed-8b0d-184f5f0bd1c1.png" >
+<img src="https://user-images.githubusercontent.com/119675645/228008701-978d79d3-013f-466f-be1f-4779ec027c5c.jpg" >
 
 ### 4  - Percentage of attacks by activity.
 
