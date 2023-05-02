@@ -10,13 +10,13 @@ Este projeto teve como objetivo analisar o aumento de ataques de tubarão em sur
 
 ## Tecnologia
 
-O software utilizado neste projeto foi:
+Os softwares utilizados neste projeto foram:
 
 * Jupyter Anaconda
 * Python version  3.9.13
 
 
-## Serviços usados
+## Serviço usado:
 
 * Github
 
