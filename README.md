@@ -67,7 +67,7 @@ Os softwares utilizados neste projeto foram:
   - Repositório: https://github.com/bonfimdoprado/Projeto-Sharck-Attack
   
   
-## Autores
+## Autor
 
 * **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
  
